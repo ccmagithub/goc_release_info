@@ -18,29 +18,29 @@
 * [SP Test plan report](#sp-test-plan-report)
 * [TS-UAT Test plan report](#ts-uat-test-plan-report)
 
-### New features
+## _New features_
 ------
-* Job API.
-* Private registry managment API.
-* OpenStack reconfiguration.
+* ~~Job API.~~
+* ~~Private registry managment API.~~
+* ~~OpenStack reconfiguration.~~
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Enhancement/Improvement
+## _Enhancement/Improvement_
 ------
 * API performance enhancement.
 * Load balancer enhancement.
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Removed/Retired features
+## _Removed/Retired features_
 ------
 * Job type is not supported in Docker solution.
 * Harbor user/project is not bound to OpenStack user/tenant.
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Fixed issues
+## _Fixed issues_
 ------
 * 在 newton 的 openstack 中無法透過 metering 取得 bandwidth 的資料 (GOC-376)
 * [2017.3.0] UAT測試, System Admin Guide文件內容與現況不符 (GOC-380)
@@ -48,7 +48,7 @@
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Known issues
+## _Known issues_
 ------
 * Cloudinit is not working properly result in cutomizing user account fail. (GOC-35)
 * Stuck on the notification page while deleting three instances. (GOC-56)
@@ -56,7 +56,7 @@
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### **_Release Package_**
+## _Release Package_
 ------
 * Portal Image
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_Portal-2018.1.0.img
@@ -69,25 +69,25 @@
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Infra / SP document
+## _Infra / SP document_
 ------
 * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Infra CI Test plan report
+## _Infra CI Test plan report_
 ------
 TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### SP Test plan report
+## _SP Test plan report_
 ------
 TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### TS-UAT Test plan report
+## _TS-UAT Test plan report_
 ------
 TBD
 
