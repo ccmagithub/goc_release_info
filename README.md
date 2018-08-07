@@ -7,18 +7,18 @@
 ****
 
 ## 目錄
-* [New features](#new-features)
+* [New Features](#new-features)
 * [Enhancement/Improvement](#enhancementimprovement)
-* [Removed/Retired features](#removedretired-features)
-* [Fixed issues](#fixed-issues)
-* [Known issues](#known-issues)
+* [Removed/Retired Features](#removedretired-features)
+* [Fixed Issues](#fixed-issues)
+* [Known Issues](#known-issues)
 * [Release Package](#release-package)
-* [Document](#document)
-* [Test plan report](#test-plan-report)
-* [TS-UAT Test plan report](#ts-uat-test-plan-report)
+* [Documents](#documents)
+* [CI Test Plan Report](#ci-test-plan-report)
+* [TS-UAT Test Plan Report](#ts-uat-test-plan-report)
 
 ------
-## _New features_
+## _New Features_
 ### PaaS
 * ~~Job API.~~
 * ~~Private registry managment API.~~
@@ -39,7 +39,7 @@
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
-## _Removed/Retired features_
+## _Removed/Retired Features_
 ### PaaS
 * ~~Job type is not supported in Docker solution.~~
 * ~~Harbor user/project is not bound to OpenStack user/tenant.~~
@@ -49,7 +49,7 @@
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
-## _Fixed issues_
+## _Fixed Issues_
 ### PaaS
 * ~~在 newton 的 openstack 中無法透過 metering 取得 bandwidth 的資料 (GOC-376)~~
 * ~~[2017.3.0] UAT測試, System Admin Guide文件內容與現況不符 (GOC-380)~~
@@ -60,7 +60,7 @@
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
-## _Known issues_
+## _Known Issues_
 ### PaaS
 * TBD
 ### Service Portal
@@ -85,7 +85,7 @@
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
-## _Document_
+## _Documents_
 ### PaaS
 * ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document~~
 ### Service Portal
@@ -94,7 +94,7 @@
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
-## _Test plan report_
+## _CI Test Plan Report_
 ### PaaS
 * TBD
 ### Service Portal
@@ -103,7 +103,7 @@
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
-## _TS-UAT Test plan report_
+## _TS-UAT Test Plan Report_
 ### PaaS
 * TBD
 ### Service Portal
