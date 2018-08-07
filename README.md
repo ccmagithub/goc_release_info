@@ -13,9 +13,8 @@
 * [Fixed issues](#fixed-issues)
 * [Known issues](#known-issues)
 * [Release Package](#release-package)
-* [Infra / SP document](#infra--sp-document)
-* [Infra CI Test plan report](#infra-ci-test-plan-report)
-* [SP Test plan report](#sp-test-plan-report)
+* [Document](#document)
+* [Test plan report](#test-plan-report)
 * [TS-UAT Test plan report](#ts-uat-test-plan-report)
 
 ## _New features_
@@ -69,19 +68,13 @@
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-## _Infra / SP document_
+## _Document_
 ------
 * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-## _Infra CI Test plan report_
-------
-TBD
-
-[回到目錄 :arrow_heading_up:](#目錄)
-
-## _SP Test plan report_
+## _Test plan report_
 ------
 TBD
 
