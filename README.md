@@ -70,9 +70,8 @@
 
 ------
 ## _Document_
-* ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document~~
 ### PaaS
-TBD
+* ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document~~
 ### Service Portal
 TBD
 
