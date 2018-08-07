@@ -5,7 +5,7 @@
 3. 本文件主要是給內部人員觀看。
 4. 本文件採用Git統一管理，利用不同branch維護不同版本的資訊。如需觀看不同版本，請切換至相對應的branch。
 5. Fileserver read-only account: geminiuser / iltwagemini
-  
+
 ****
 
 ## 目錄
