@@ -70,7 +70,11 @@
 
 ------
 ## _Document_
-* smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document
+* ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document~~
+### PaaS
+TBD
+### Service Portal
+TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -85,6 +89,9 @@ TBD
 
 ------
 ## _TS-UAT Test plan report_
+### PaaS
+TBD
+### Service Portal
 TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
