@@ -22,52 +22,52 @@
 ------
 ## _New Features_
 ### GOC PaaS
-* ~~Job API.~~
-* ~~Private registry managment API.~~
-* ~~OpenStack reconfiguration.~~
+1. ~~Job API.~~
+2. ~~Private registry managment API.~~
+3. ~~OpenStack reconfiguration.~~
 ### Service Portal
-* TBD
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
 ## _Enhancement/Improvement_
 ### GOC PaaS
-* ~~API performance enhancement.~~
-* ~~Load balancer enhancement.~~
+1. ~~API performance enhancement.~~
+2. ~~Load balancer enhancement.~~
 ### Service Portal
-* TBD
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
 ## _Removed/Retired Features_
 ### GOC PaaS
-* ~~Job type is not supported in Docker solution.~~
-* ~~Harbor user/project is not bound to OpenStack user/tenant.~~
+1. ~~Job type is not supported in Docker solution.~~
+2. ~~Harbor user/project is not bound to OpenStack user/tenant.~~
 ### Service Portal
-* TBD
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
 ## _Fixed Issues_
 ### GOC PaaS
-* ~~在 newton 的 openstack 中無法透過 metering 取得 bandwidth 的資料 (GOC-376)~~
-* ~~[2017.3.0] UAT測試, System Admin Guide文件內容與現況不符 (GOC-380)~~
-* ~~刪除 Site 時，GOC DB 會一直卡在 Deleting，但Site 已被刪除 (GOC-391)~~
+1. ~~在 newton 的 openstack 中無法透過 metering 取得 bandwidth 的資料 (GOC-376)~~
+2. ~~[2017.3.0] UAT測試, System Admin Guide文件內容與現況不符 (GOC-380)~~
+3. ~~刪除 Site 時，GOC DB 會一直卡在 Deleting，但Site 已被刪除 (GOC-391)~~
 ### Service Portal
-* TBD
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
 ## _Known Issues_
 ### GOC PaaS
-* ~~Cloudinit is not working properly result in cutomizing user account fail. (GOC-35)~~
-* ~~Stuck on the notification page while deleting three instances. (GOC-56)~~
+1. ~~Cloudinit is not working properly result in cutomizing user account fail. (GOC-35)~~
+2. ~~Stuck on the notification page while deleting three instances. (GOC-56)~~
 ### Service Portal
-* TBD
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
