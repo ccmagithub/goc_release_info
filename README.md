@@ -62,7 +62,8 @@
 ------
 ## _Known Issues_
 ### PaaS
-* TBD
+* ~~Cloudinit is not working properly result in cutomizing user account fail. (GOC-35)~~
+* ~~Stuck on the notification page while deleting three instances. (GOC-56)~~
 ### Service Portal
 * TBD
 
