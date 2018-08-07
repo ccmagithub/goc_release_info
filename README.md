@@ -1,86 +1,101 @@
-# Release information for GOC product.
-* Version
-  * 
-* Fileserver read-only account
-  * geminiuser/iltwagemini
+# Release Information for GOC Product.
+1. 版本：**TBD**
+1. GOC product主要包含兩個部分： **GOC PaaS** 以及 **Service Portal** 。
+2. 本文件部分資訊（如：_New Features_、_Enhancement/Improvement_、_Removed/Retired Features_、_Fixed Issues_、_Known Issues_...）由於內容繁雜，僅列出Top 3的項目，詳細內容請查詢 _Documents_ 內容。
+3. 本文件主要是給內部人員觀看。
+4. 本文件採用Git統一管理，利用不同branch維護不同版本的資訊。如需觀看不同版本，請切換至相對應的branch。
+5. Fileserver read-only account: geminiuser / iltwagemini
 
 ****
 
 ## 目錄
-* [New features](#new-features)
+* [New Features](#new-features)
 * [Enhancement/Improvement](#enhancementimprovement)
-* [Removed/Retired features](#removedretired-features)
-* [Fixed issues](#fixed-issues)
-* [Known issues](#known-issues)
-* [Infra team source code](#infra-team-source-code)
-* [SP team source code](#sp-team-source-code)
-* [Infra / SP document](#infra--sp-document)
-* [Infra CI Test plan report](#infra-ci-test-plan-report)
-* [SP Test plan report](#sp-test-plan-report)
-* [TS-UAT Test plan report](#ts-uat-test-plan-report)
+* [Removed/Retired Features](#removedretired-features)
+* [Fixed Issues](#fixed-issues)
+* [Known Issues](#known-issues)
+* [Release Package](#release-package)
+* [Documents](#documents)
+* [CI Test Plan Report](#ci-test-plan-report)
+* [TS-UAT Test Plan Report](#ts-uat-test-plan-report)
 
-### New features
 ------
-TBD
+## _New Features_
+### GOC PaaS
+1. TBD
+### Service Portal
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Enhancement/Improvement
 ------
-TBD
+## _Enhancement/Improvement_
+### GOC PaaS
+1. TBD
+### Service Portal
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Removed/Retired features
 ------
-TBD
+## _Removed/Retired Features_
+### GOC PaaS
+1. TBD
+### Service Portal
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Fixed issues
 ------
-TBD
+## _Fixed Issues_
+### GOC PaaS
+1. TBD
+### Service Portal
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Known issues
 ------
-TBD
+## _Known Issues_
+### GOC PaaS
+1. TBD
+### Service Portal
+1. TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Infra team source code
 ------
-TBD
+## _Release Package_
+### GOC PaaS
+* TBD
+### Service Portal
+* TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### SP team source code
 ------
-TBD
+## _Documents_
+### GOC PaaS
+* TBD
+### Service Portal
+* TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Infra / SP document
 ------
-TBD
+## _CI Test Plan Report_
+### GOC PaaS
+* TBD
+### Service Portal
+* TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Infra CI Test plan report
 ------
-TBD
-
-[回到目錄 :arrow_heading_up:](#目錄)
-
-### SP Test plan report
-------
-TBD
-
-[回到目錄 :arrow_heading_up:](#目錄)
-
-### TS-UAT Test plan report
-------
-TBD
+## _TS-UAT Test Plan Report_
+### GOC PaaS
+* TBD
+### Service Portal
+* TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
