@@ -12,8 +12,7 @@
 * [Removed/Retired features](#removedretired-features)
 * [Fixed issues](#fixed-issues)
 * [Known issues](#known-issues)
-* [PaaS source code](#infra-team-source-code)
-* [Service Portal source code](#sp-team-source-code)
+* [Release Package](#release-package)
 * [Infra / SP document](#infra--sp-document)
 * [Infra CI Test plan report](#infra-ci-test-plan-report)
 * [SP Test plan report](#sp-test-plan-report)
@@ -57,7 +56,7 @@
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
-### Infra team source code
+### **_Release Package_**
 ------
 * Portal Image
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_Portal-2018.1.0.img
@@ -67,12 +66,6 @@
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_LogMgt_Server-2018.1.0.img
 * System Monitor
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/System Monitor
-
-[回到目錄 :arrow_heading_up:](#目錄)
-
-### SP team source code
-------
-TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
