@@ -26,7 +26,7 @@
 2. ~~Private registry managment API.~~
 3. ~~OpenStack reconfiguration.~~
 ### Service Portal
-1. TBD
+1. Share Zone - Dashboard Job
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -57,7 +57,7 @@
 2. ~~[2017.3.0] UAT測試, System Admin Guide文件內容與現況不符 (GOC-380)~~
 3. ~~刪除 Site 時，GOC DB 會一直卡在 Deleting，但Site 已被刪除 (GOC-391)~~
 ### Service Portal
-1. TBD
+1. Fixed the Register Request page in User Management that admin can able to see the request and Approve/Reject users.
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -83,7 +83,12 @@
 * ~~System Monitor~~
   * ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/System Monitor~~
 ### Service Portal
-* TBD
+* Service Portal Image
+ * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal-3.1
+* Service Portal GSP
+ * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GeminiServicePortal-3.1.0.gsp
+* IaaS GSP
+ * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GSP/IaaS-3.0.0.gsp
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -92,7 +97,10 @@
 ### GOC PaaS
 * ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document~~
 ### Service Portal
-* TBD
+* Service_Portal_gsp_使用說明
+ * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal_gsp_使用說明.txt
+* 3.1_image_release_note
+ * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/3.1_image_release_note.txt
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
