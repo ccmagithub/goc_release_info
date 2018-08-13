@@ -2,8 +2,7 @@
 1. 版本：**2018.1.1**
 2. GOC product主要包含兩個部分： **GOC PaaS** 以及 **Service Portal** 。
 3. 本文件部分資訊（如：_New Features_、_Enhancement/Improvement_、_Removed/Retired Features_、_Fixed Issues_、_Known Issues_...）由於內容繁雜，僅列出Top 3的項目，詳細內容請查詢 _Documents_ 內容。
-4. 本文件主要是給內部人員觀看。
-5. 本文件採用Git統一管理，利用不同branch維護不同版本的資訊。如需觀看不同版本，請切換至相對應的branch。
+4. 本文件採用Git統一管理，利用不同branch維護不同版本的資訊。如需觀看不同版本，請切換至相對應的branch。
 
 ****
 
