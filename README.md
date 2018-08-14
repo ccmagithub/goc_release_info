@@ -20,9 +20,7 @@
 ------
 ## _New Features_
 ### GOC PaaS
-1. ~~Job API.~~
-2. ~~Private registry managment API.~~
-3. ~~OpenStack reconfiguration.~~
+None
 ### Service Portal
 1. Share Zone - Dashboard Job
 
