@@ -1,8 +1,8 @@
 # Release Information for GOC Product.
 1. 版本：**2018.1.1**
-2. GOC product主要包含兩個部分： **GOC PaaS** 以及 **Service Portal** 。
+2. GOC product 主要包含兩個部分： **GOC PaaS** 以及 **Service Portal** 。
 3. 本文件部分資訊（如：_New Features_、_Enhancement/Improvement_、_Removed/Retired Features_、_Fixed Issues_、_Known Issues_...）由於內容繁雜，僅列出Top 3的項目，詳細內容請查詢 _Documents_ 內容。
-4. 本文件採用Git統一管理，利用不同branch維護不同版本的資訊。如需觀看不同版本，請切換至相對應的branch。
+4. 本文件採用 Git 統一管理，利用不同 branch 維護不同版本的資訊。如需觀看不同版本，請切換至相對應的 branch。
 
 ****
 
@@ -82,23 +82,23 @@
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/System_Monitor
 ### Service Portal
 * Service Portal Image
- * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal-3.1
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal-3.1
 * Service Portal GSP
- * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GeminiServicePortal-3.1.0.gsp
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GeminiServicePortal-3.1.0.gsp
 * IaaS GSP
- * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GSP/IaaS-3.0.0.gsp
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GSP/IaaS-3.0.0.gsp
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ------
 ## _Documents_
 ### GOC PaaS
-* ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document~~
+* smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Document
 ### Service Portal
 * Service_Portal_gsp_使用說明
- * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal_gsp_使用說明.txt
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal_gsp_使用說明.txt
 * 3.1_image_release_note
- * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/3.1_image_release_note.txt
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/3.1_image_release_note.txt
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
