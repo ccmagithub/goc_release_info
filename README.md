@@ -72,14 +72,14 @@
 ------
 ## _Release Package_
 ### GOC PaaS
-* ~~Portal Image~~
-  * ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_Portal-2018.1.0.img~~
-* ~~Harbor Image~~
-  * ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_Docker_Registry-2018.1.0.img~~
-* ~~Log Server Image~~
-  * ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_LogMgt_Server-2018.1.0.img~~
-* ~~System Monitor~~
-  * ~~smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/System Monitor~~
+* Portal Image
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_Portal-2018.1.1.img
+* Harbor Image
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_Docker_Registry-2018.1.1.img
+* Log Server Image
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_LogMgt_Server-2018.1.1.img
+* System Monitor
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/System_Monitor
 ### Service Portal
 * Service Portal Image
  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal-3.1
