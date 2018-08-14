@@ -63,8 +63,7 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
 ------
 ## _Known Issues_
 ### GOC PaaS
-1. ~~Cloudinit is not working properly result in cutomizing user account fail. (GOC-35)~~
-2. ~~Stuck on the notification page while deleting three instances. (GOC-56)~~
+TBD
 ### Service Portal
 1. TBD
 
