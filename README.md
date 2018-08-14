@@ -31,8 +31,9 @@
 ------
 ## _Enhancement/Improvement_
 ### GOC PaaS
-1. ~~API performance enhancement.~~
-2. ~~Load balancer enhancement.~~
+1. Job API Enhancement:rescale-like API
+2. Flavor API Enhancement
+    a. support k8s, job flavor
 ### Service Portal
 1. TBD
 
@@ -41,8 +42,7 @@
 ------
 ## _Removed/Retired Features_
 ### GOC PaaS
-1. ~~Job type is not supported in Docker solution.~~
-2. ~~Harbor user/project is not bound to OpenStack user/tenant.~~
+None
 ### Service Portal
 1. TBD
 
@@ -51,9 +51,12 @@
 ------
 ## _Fixed Issues_
 ### GOC PaaS
-1. ~~在 newton 的 openstack 中無法透過 metering 取得 bandwidth 的資料 (GOC-376)~~
-2. ~~[2017.3.0] UAT測試, System Admin Guide文件內容與現況不符 (GOC-380)~~
-3. ~~刪除 Site 時，GOC DB 會一直卡在 Deleting，但Site 已被刪除 (GOC-391)~~
+1. 2018.1.0 installer 無法正確安裝 zabbix (GOC-455)
+2. [2018.1.0] UAT測試, Fuel installer image裡面提供的hccomputesetting.sh,
+hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
+3. [2018.1.0] UAT測試, Slurm安裝,沒有說明node所需必要條件(ex: NIC) (GOC-458)
+4. 如果有Pod 未開出Container 便進入 Pending 會使celery-worker 的 check_k8s_task 出現問題
+5. 成大環境 Pending Job 的 Pod 沒有資料 (GOC-472)
 ### Service Portal
 1. Fixed the Register Request page in User Management that admin can able to see the request and Approve/Reject users.
 
