@@ -63,7 +63,7 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
 ------
 ## _Known Issues_
 ### GOC PaaS
-詳細請參閱 [Release note](smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Document/Release Notes.pdf)
+- 詳細請參閱 Release note
 ### Service Portal
 1. TBD
 
