@@ -33,7 +33,11 @@ None
 2. Flavor API Enhancement
     a. support k8s, job flavor
 ### Service Portal
-1. TBD
+1. Separate create job template and runner page.
+2. Add Job list which can only see running or queueing jobs.
+3. Add Job History can see all the jobs except running or queueing jobs.
+4. Add create Job template list which only Admin can create.
+5. Admin can see all the runners in runner list.
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -57,6 +61,12 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
 5. 成大環境 Pending Job 的 Pod 沒有資料 (GOC-472)
 ### Service Portal
 1. Fixed the Register Request page in User Management that admin can able to see the request and Approve/Reject users.
+2. Fixed User can able to selector flavor and gpu count by Job container type.
+3. Admin should be able to see Job Template list, and Runner list.
+4. User should be able to see Runner list , Job list and Job history list.
+5. Fixed all the created time in correct UTC time.
+6. In order to have 3 layers of Job Template, Runner, and Jobs.
+7. Fixed runner action that when status is Inactive can only submit, and delete, active can only stop, delete.
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -65,7 +75,7 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
 ### GOC PaaS
 - 詳細請參閱 Release note
 ### Service Portal
-1. TBD
+1. When Runners schedule by runonce, cannot know the jobs endtime directly by api.
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -82,7 +92,7 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/System_Monitor
 ### Service Portal
 * Service Portal Image
-  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal-3.1
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal-3.1-beta.img
 * Service Portal GSP
   * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GeminiServicePortal-3.1.0.gsp
 * IaaS GSP
