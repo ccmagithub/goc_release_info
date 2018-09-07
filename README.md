@@ -76,6 +76,8 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
 - 詳細請參閱 Release note
 ### Service Portal
 1. When Runners schedule by runonce, cannot know the jobs endtime directly by api.
+2. GSP from 2.1 currently is not support in Sportal 3.1.
+
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
