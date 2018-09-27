@@ -38,6 +38,7 @@ None
 3. Add Job History can see all the jobs except running or queueing jobs.
 4. Add create Job template list which only Admin can create.
 5. Admin can see all the runners in runner list.
+6. Dashboard API Enhancement, Datatables using Server-side processing.
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -67,6 +68,7 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
 5. Fixed all the created time in correct UTC time.
 6. In order to have 3 layers of Job Template, Runner, and Jobs.
 7. Fixed runner action that when status is Inactive can only submit, and delete, active can only stop, delete.
+8. Fixed Harbor Api that solution can able to select the images from Harbor.
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
