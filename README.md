@@ -96,11 +96,11 @@ f  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_Portal
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/System_Monitor
 ### Service Portal
 * Service Portal Image
-  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1-beta/Service_Portal-3.1-beta.img
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal-3.1.img
 * Service Portal GSP
-  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1-beta/GeminiServicePortal-3.1.0.gsp
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GeminiServicePortal-3.1.0.gsp
 * IaaS GSP
-  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1-beta/GSP/IaaS-3.0.0.gsp
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GSP/IaaS-3.0.0.gsp
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -110,9 +110,9 @@ f  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_Portal
 * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Document
 ### Service Portal
 * Service_Portal_gsp_使用說明
-  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1-beta/Service_Portal_gsp_使用說明.txt
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal_gsp_使用說明.txt
 * 3.1_image_release_note
-  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1-beta/3.1_image_release_note.txt
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/3.1_image_release_note.txt
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
