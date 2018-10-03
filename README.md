@@ -87,7 +87,7 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
 ## _Release Package_
 ### GOC PaaS
 * Portal Image
-f  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_Portal-2018.1.1.img
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_Portal-2018.1.1.img
 * Harbor Image
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_Docker_Registry-2018.1.1.img
 * Log Server Image
