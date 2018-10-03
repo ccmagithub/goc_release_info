@@ -109,6 +109,8 @@ f  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Gemini_Portal
 ### GOC PaaS
 * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/Document
 ### Service Portal
+* Service_Portal 3.1 相關文件
+    * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Document/master
 * Service_Portal_gsp_使用說明
   * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal_gsp_使用說明.txt
 * 3.1_image_release_note
