@@ -96,7 +96,7 @@ hccomputesettingmerger.sh裡面, IF判斷式語法有錯,無法執行 (GOC-456)
   * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.1/System_Monitor
 ### Service Portal
 * Service Portal Image
-  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/Service_Portal-3.1.img
+  * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/ServicePortal-3.1.img
 * Service Portal GSP
   * smb://172.16.200.50/Gemini_fileserver/Release/ServicePortal/3.1/GeminiServicePortal-3.1.0.gsp
 * IaaS GSP
